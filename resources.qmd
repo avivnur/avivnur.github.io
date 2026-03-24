@@ -1,0 +1,6 @@
+---
+title: "Resources"
+format: html
+---
+
+This will be spaces for valuable resources that I found on the internet.

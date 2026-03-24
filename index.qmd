@@ -1,11 +1,18 @@
 ---
-title: "avivnur"
+title: "Aviv A. Nur"
+image: "media/headshot.jpg"
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/aviv-nur/
+    - text: GitHub
+      href: https://github.com/avivnur
+    - text: Email
+      href: mailto:aviv.alvian@bps.go.id
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Senior Statistician at Statistics Indonesia with expertise in Machine Learning, Applied Statistics, and Econometrics.
