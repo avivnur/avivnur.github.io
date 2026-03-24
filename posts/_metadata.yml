@@ -7,3 +7,11 @@ freeze: auto
 
 # enable banner style title blocks ----
 title-block-banner: true
+
+# my author info
+author:
+  - name: Aviv Nur
+    url: https://avivnur.github.io/
+    orcid: 0009-0004-3167-1955
+    affiliation: Senior Statistician @ BPS-Statistics Indonesia
+    affiliation-url: https://www.bps.go.id/
