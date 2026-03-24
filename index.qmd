@@ -7,11 +7,20 @@ about:
   image-shape: round
   image-width: 17em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/aviv-nur/
-    - text: GitHub
+      target: _blank
+    - icon: github
+      text: GitHub
       href: https://github.com/avivnur
-    - text: Email
+      target: _blank
+    - icon: twitter
+      text: X
+      href: https://x.com/avivnur_
+      target: _blank
+    - icon: envelope
+      text: Office Email
       href: mailto:aviv.alvian@bps.go.id
 ---
 

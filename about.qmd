@@ -1,9 +1,21 @@
 ---
-title: "About"
+title: "About Me"
+format: html
 ---
 
-About this site
+# Aviv Alvian Nur
 
-```{r}
-1 + 1
-```
+**Senior Statistician \@ Statistics Indonesia (BPS)**
+
+I am a statistician and data scientist specializing in socio-economic data analysis and machine learning. Currently, I work at **Statistics Indonesia (BPS)** where I design national surveys and provide data-driven insights for policymakers.
+
+### Education
+
+-  **M.S. in Data Science**, Worcester Polytechnic Institute (GPA 3.91) 
+-  **B.A.S. in Statistics**, Sekolah Tinggi Ilmu Statistik (GPA 3.59) 
+
+### Technical Arsenal
+
+-   **Languages:** Python, R, SQL.
+-   **Tools:** Tableau, Git, QGIS, SPSS, Microsoft Excel.
+-   **Expertise:** Machine Learning, Big Data Analytics, Econometrics, and Sampling Methods.

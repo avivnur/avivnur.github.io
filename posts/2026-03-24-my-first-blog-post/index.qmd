@@ -1,0 +1,25 @@
+---
+title: "My First Blog Post Ever!"
+description: "This is my hello world to this post"
+author:
+  - name: Aviv Nur
+    url: https://avivnur.github.io/
+    orcid: NA
+    affiliation: BPS-Statistics Indonesia
+    affiliation-url: https://www.bps.go.id/
+date: 03-24-2026
+categories: [Quarto, R, Python]
+citation:
+  url: https://avivnur.github.io/posts/2026-03-24-my-first-blog-post/
+image: first-blog.jpg
+draft: false
+---
+
+There is always be the first time for everything, and here it is my first blog post in the era of AI.
+
+I am using Quarto and R-Studio to write this post. Then, I will add some projects later.
+
+```{python}
+print("Hello, World!")
+```
+

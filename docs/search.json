@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Aviv Alvian Nur\nSenior Statistician @ Statistics Indonesia (BPS)\nI am a statistician and data scientist specializing in socio-economic data analysis and machine learning. Currently, I work at Statistics Indonesia (BPS) where I design national surveys and provide data-driven insights for policymakers.\n\nEducation\n\nM.S. in Data Science, Worcester Polytechnic Institute (GPA 3.91)\nB.A.S. in Statistics, Sekolah Tinggi Ilmu Statistik (GPA 3.59)\n\n\n\nTechnical Arsenal\n\nLanguages: Python, R, SQL.\nTools: Tableau, Git, QGIS, SPSS, Microsoft Excel.\nExpertise: Machine Learning, Big Data Analytics, Econometrics, and Sampling Methods."
   },
   {
     "objectID": "resources.html",
@@ -19,5 +19,26 @@
     "title": "Resources",
     "section": "",
     "text": "This will be spaces for valuable resources that I found on the internet."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "My First Blog Post Ever!\n\n\n\nQuarto\n\nR\n\nPython\n\n\n\nThis is my hello world to this post\n\n\n\nAviv Nur\n\n\nMar 24, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "posts/2026-03-24-my-first-blog-post/index.html",
+    "href": "posts/2026-03-24-my-first-blog-post/index.html",
+    "title": "My First Blog Post Ever!",
+    "section": "",
+    "text": "There is always be the first time for everything, and here it is my first blog post in the era of AI.\nI am using Quarto and R-Studio to write this post. Then, I will add some projects later.\n\nprint(\"Hello, World!\")\n\nHello, World!\n\n\n\n\n\nCitationBibTeX citation:@online{nur2026,\n  author = {Nur, Aviv},\n  title = {My {First} {Blog} {Post} {Ever!}},\n  date = {2026-03-24},\n  url = {https://avivnur.github.io/posts/2026-03-24-my-first-blog-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nNur, Aviv. 2026. “My First Blog Post Ever!” March 24, 2026.\nhttps://avivnur.github.io/posts/2026-03-24-my-first-blog-post/."
   }
 ]
