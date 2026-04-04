@@ -20,8 +20,8 @@ about:
       href: https://x.com/avivnur_
       target: _blank
     - icon: envelope
-      text: Office Email
-      href: mailto:aviv.alvian@bps.go.id
+      text: Email
+      href: mailto:hello@avivnur.com
 ---
 
 Senior Statistician at Statistics Indonesia with expertise in Machine Learning, Applied Statistics, and Econometrics.
